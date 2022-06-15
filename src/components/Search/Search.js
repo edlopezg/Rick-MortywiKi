@@ -18,4 +18,4 @@ const Search = ({setsearch, setpageNumber}) => {
   )
 }
 
-export default Search
+export default Search;
